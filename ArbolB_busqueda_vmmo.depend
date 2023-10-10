@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668354036 source:c:\users\vmmo\documents\victor\esctructuras teoría\arbolb_busqueda_vmmo\main.cpp
+	<iostream>
+	<chrono>
+	<random>
+	<functional>
+	"btree.hpp"
+
+1668353550 c:\users\vmmo\documents\victor\esctructuras teoría\arbolb_busqueda_vmmo\btree.hpp
+	<exception>
+	<string>
+	<iostream>
+
